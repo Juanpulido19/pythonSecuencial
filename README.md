@@ -1,0 +1,2 @@
+# pythonSecuencial
+Python Sequential 
